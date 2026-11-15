@@ -3,7 +3,7 @@
 
 ### Aspiring Software Developer | Cybersecurity Enthusiast
 
-I am an aspiring developer with an interest in software development, cybersecurity, and emerging technologies. I enjoy exploring new tools, developing practical projects, and continuously expanding my technical knowledge.
+Developing skills in Python programming, cybersecurity, vulnerability research, and security automation, with hands-on experience building practical tools and technical projects.
 
 ### Areas of Interest
 - Cybersecurity & Information Security
