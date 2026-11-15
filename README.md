@@ -47,7 +47,7 @@ An educational MD5 hash-testing tool that demonstrates dictionary-based password
 ## Connect
 
 - **GitHub:** [@arazkanafianda](https://github.com/arazkanafianda)
-
+- **Phone:** +62 813-8979-8756
 ---
 
 <sub>Building practical projects and documenting technical development in cybersecurity and software security.</sub>
