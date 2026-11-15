@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**arazkanafianda/arazkanafianda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arazka Nafianda
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring developer with an interest in software development, cybersecurity, and emerging technologies. I enjoy exploring new tools, developing practical projects, and continuously expanding my technical knowledge.
+
+### Areas of Interest
+- Cybersecurity & Information Security
+- Software Development
+- Programming & Automation
+- Open-Source Projects
+- Technology & Innovation
+
+### Current Focus
+- Strengthening programming and problem-solving skills.
+- Exploring cybersecurity concepts and security tools.
+- Developing practical projects and technical experiments.
+- Continuously learning new technologies and frameworks.
+
+### Connect
+- **GitHub:** [@arazkanafianda](https://github.com/arazkanafianda)
+
+---
+
+*Committed to continuous learning, technical excellence, and building meaningful solutions.*
