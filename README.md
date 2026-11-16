@@ -1,18 +1,13 @@
 
 # Arazka Nafianda
 
-### Cybersecurity & Vulnerability Research
+## Cybersecurity & Vulnerability Research
 
-## Featured Projects
-
-### 1. CVERadar
-A lightweight Python-based tool for retrieving recently published CVE records with customizable timeframes and result limits.
-[View Repository](https://github.com/arazkanafianda/cveradar) | [Open in Google Colab](https://colab.research.google.com/github/arazkanafianda/cveradar/blob/main/CVERadar.ipynb)
-
-### 2. Security Hash
-An educational MD5 hash-testing tool that demonstrates dictionary-based password recovery against supplied hash values.
-[View Repository](https://github.com/arazkanafianda/security-hash) | [Open in Google Colab](https://colab.research.google.com/github/arazkanafianda/security-hash/blob/main/security-hash.ipynb)
-
+## Projects
+<ul>
+<li>CVERadar</li>
+<li>Security Hash</li>
+</ul>
 ## Connect
 
 - **GitHub:** [@arazkanafianda](https://github.com/arazkanafianda)
