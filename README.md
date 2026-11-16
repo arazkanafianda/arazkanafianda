@@ -1,16 +1,7 @@
 
 # Arazka Nafianda
 
-### Cybersecurity | Python Development | Vulnerability Research
-
-Developing practical cybersecurity tools and applying Python to security automation, vulnerability intelligence, and security testing.
-
-## Technical Focus
-
-- **Cybersecurity:** Vulnerability Research, Information Security, Security Testing
-- **Programming:** Python, Automation, Scripting
-- **Security Areas:** CVE Analysis, Hashing, Password Security
-- **Tools & Platforms:** Git, GitHub, Google Colab, Jupyter Notebook
+### Cybersecurity & Vulnerability Research
 
 ## Featured Projects
 
