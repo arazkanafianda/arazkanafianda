@@ -1,15 +1,9 @@
+I build and explore technical projects focused on cybersecurity, vulnerability analysis, and software systems.
 
-# Arazka Nafianda
+### Projects
+- <a href="https://github.com/arazkanafianda">CVERadar</a>  Vulnerability research and monitoring.
+- <a href="https://github.com/arazkanafianda">Security Hash</a>  Security-focused development.
 
-## Cybersecurity & Vulnerability Research
-
-## Projects
-<ul>
-<li>CVERadar</li>
-<li>Security Hash</li>
-</ul>
-## Connect
-
-- **GitHub:** [@arazkanafianda](https://github.com/arazkanafianda)
-- **Phone:** +62 813-8979-8756
----
+### Contact
+- Phone: +62081389798756
+- Email: nafianda33@gmail.com
