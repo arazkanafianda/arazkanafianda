@@ -1,8 +1,8 @@
 I build and explore technical projects focused on cybersecurity, vulnerability analysis, and software systems.
 
 ### Projects
-- <a href="https://github.com/arazkanafianda/cveradar">CVERadar</a>  Vulnerability research and monitoring.
-- <a href="https://github.com/arazkanafianda/security-hash">Security Hash</a>  Security-focused development.
+- <a href="https://github.com/arazkanafianda/cveradar">CVERadar</a> A lightweight retrieval tool
+- <a href="https://github.com/arazkanafianda/security-hash">Security Hash</a> A python based MD5 cracker
 
 ### Contact
 - Phone: +62081389798756
